@@ -1,20 +1,19 @@
 # Luigi Mondello
 
 ## Matricola
-555102
+55102
 
 ## Corso
 Laurea Triennale in Informatica – Programmazione ad Oggetti
 
 ## Chi sono
-Breve descrizione di te (2-3 righe). Racconta qualcosa di te stesso: da dove vieni,
-cosa studi, cosa ti appassiona.
+A volte, nel tempo libero faccio anche lo studente.  
 
 ## Interessi in Informatica
-- Argomento 1
-- Argomento 2
-- Argomento 3
+- Cybersecurity
+- Web developement 
+- Sistemi embedded
 
 ## Contatti
-- GitHub: [@tuousername](https://github.com/tuousername)
-- Email: matricola@studenti.unime.it
+- GitHub: [@luigi-2904](https://github.com/luigi-2904)
+- Email: mndlgu04p02f158w@studenti.unime.it
